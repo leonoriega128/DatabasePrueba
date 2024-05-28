@@ -4,7 +4,7 @@
 -- Description:	<Description,,>
 -- =============================================
 CREATE PROCEDURE [dbo].[BuscarDni]
-	@dni nchar(8)=''
+	@dni nchar(8)='37736858'
 AS
 BEGIN
 	-- SET NOCOUNT ON added to prevent extra result sets from
