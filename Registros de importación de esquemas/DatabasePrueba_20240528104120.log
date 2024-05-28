@@ -1,0 +1,88 @@
+28/5/2024 19:41:20	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'DatabasePrueba' del equipo 'LEO' por el usuario 'leo_N'.
+28/5/2024 19:41:21	Se inició la importación del esquema de la base de datos.
+28/5/2024 19:41:27	Recopilando credenciales de la base de datos
+28/5/2024 19:41:27	Recopilando opciones de base de datos
+28/5/2024 19:41:27	Recopilando la opción de configuración de ámbito de la base de datos genérica
+28/5/2024 19:41:27	Recopilando usuarios
+28/5/2024 19:41:27	Recopilando roles
+28/5/2024 19:41:27	Recopilando roles de aplicación
+28/5/2024 19:41:27	Recopilando pertenencias a roles
+28/5/2024 19:41:27	Recopilando grupos de archivos
+28/5/2024 19:41:27	Recopilando catálogos de texto completo
+28/5/2024 19:41:27	Recopilando ensamblados
+28/5/2024 19:41:27	Recopilando certificados
+28/5/2024 19:41:27	Recopilando claves asimétricas
+28/5/2024 19:41:27	Recopilando claves simétricas
+28/5/2024 19:41:27	Recopilando claves simétricas cifradas
+28/5/2024 19:41:27	Recopilando esquemas
+28/5/2024 19:41:27	Recopilando colecciones de esquemas XML
+28/5/2024 19:41:27	Recopilando tipos de datos definidos por el usuario
+28/5/2024 19:41:27	Recopilando tipos definidos por el usuario
+28/5/2024 19:41:27	Recopilando tipos de tabla
+28/5/2024 19:41:27	Recopilando claves únicas para tipos de tabla
+28/5/2024 19:41:27	Recopilando claves principales para tipos de tabla
+28/5/2024 19:41:27	Recopilando índices para tipos de tablas
+28/5/2024 19:41:27	Recopilando restricciones CHECK para tipos de tabla
+28/5/2024 19:41:27	Recopilando restricciones DEFAULT para tipos de tabla
+28/5/2024 19:41:27	Recopilando funciones de partición
+28/5/2024 19:41:27	Recopilando esquemas de partición
+28/5/2024 19:41:27	Recopilando funciones
+28/5/2024 19:41:27	Recopilando funciones cifradas
+28/5/2024 19:41:27	Recopilando agregados
+28/5/2024 19:41:27	Recopilando procedimientos
+28/5/2024 19:41:27	Recopilando procedimientos cifrados
+28/5/2024 19:41:27	Recopilando tablas
+28/5/2024 19:41:27	Recopilando claves principales
+28/5/2024 19:41:27	Recopilando restricciones UNIQUE
+28/5/2024 19:41:27	Recopilando claves externas
+28/5/2024 19:41:27	Recopilando restricciones DEFAULT
+28/5/2024 19:41:27	Recopilando restricciones CHECK
+28/5/2024 19:41:27	Recopilando vistas
+28/5/2024 19:41:27	Recopilando vistas cifradas
+28/5/2024 19:41:27	Recopilando índices
+28/5/2024 19:41:27	Recopilando estadísticas
+28/5/2024 19:41:27	Recopilando listas de palabras irrelevantes de índices de texto completo
+28/5/2024 19:41:27	Recopilando listas de propiedades de búsqueda
+28/5/2024 19:41:27	Recopilando propiedades de búsqueda
+28/5/2024 19:41:27	Recopilando índices de texto completo
+28/5/2024 19:41:27	Recopilando índices de almacenamiento de columnas
+28/5/2024 19:41:27	Recopilando índices espaciales
+28/5/2024 19:41:27	Recopilando índices XML
+28/5/2024 19:41:27	Recopilando índices XML selectivos
+28/5/2024 19:41:27	Recopilando desencadenadores cifrados
+28/5/2024 19:41:27	Recopilando desencadenadores
+28/5/2024 19:41:27	Recopilando DDL triggers cifrados y de CLR
+28/5/2024 19:41:27	Recopilando DDL triggers
+28/5/2024 19:41:27	Creación de la restricción perimetral en curso
+28/5/2024 19:41:27	Recopilando sinónimos
+28/5/2024 19:41:27	Recopilando valores predeterminados
+28/5/2024 19:41:27	Recopilando enlaces UDDT de restricción de datos
+28/5/2024 19:41:27	Recopilando reglas
+28/5/2024 19:41:27	Recopilando enlaces UDDT de restricción de datos
+28/5/2024 19:41:27	Recopilando tipos de mensaje
+28/5/2024 19:41:27	Recopilando colas
+28/5/2024 19:41:27	Recopilando contratos
+28/5/2024 19:41:27	Recopilando servicios
+28/5/2024 19:41:27	Recopilando notificaciones de eventos
+28/5/2024 19:41:27	Recopilando enlaces de servicio remoto
+28/5/2024 19:41:27	Recopilando prioridades de Broker
+28/5/2024 19:41:27	Recopilando firmas
+28/5/2024 19:41:27	Recopilando opciones de compresión
+28/5/2024 19:41:27	Recopilando tipos de secuencia
+28/5/2024 19:41:27	Recopilando directivas de seguridad
+28/5/2024 19:41:27	Recopilar claves de cifrado de columna
+28/5/2024 19:41:27	Recopilando claves maestras de columna
+28/5/2024 19:41:27	Recopilando orígenes de datos externos
+28/5/2024 19:41:27	Recopilando formatos de archivo externos
+28/5/2024 19:41:27	Recopilando tablas externas
+28/5/2024 19:41:27	Recopilando opciones de compresión de índice XML
+28/5/2024 19:41:27	Recopilando propiedades extendidas
+28/5/2024 19:41:27	Recopilando ensamblados
+28/5/2024 19:41:27	Recopilando credenciales
+28/5/2024 19:41:27	Recopilando inicios de sesión
+28/5/2024 19:41:27	Recopilando auditorías de servidor
+28/5/2024 19:41:28	Buscando elementos duplicados en el proyecto
+28/5/2024 19:41:29	Ha finalizado el procesamiento de los elementos duplicados
+28/5/2024 19:41:29	Finalizó la importación de la base de datos.
+28/5/2024 19:41:29	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\leo_N\source\repos\DatabasePrueba\DatabasePrueba\Registros de importación de esquemas\DatabasePrueba_20240528104120.log
+28/5/2024 19:41:29	Haga clic en Finalizar para continuar...
